@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.deps.json
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.runtimeconfig.json
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.dll
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.pdb
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfo.cs
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.dll
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/refint/DesafioFundamentos.dll
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.pdb
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.genruntimeconfig.cache
+/home/gabriel/Desktop/SistemaEstacionamento/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net7.0/ref/DesafioFundamentos.dll
